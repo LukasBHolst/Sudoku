@@ -16,5 +16,5 @@ This could however be improved a bit further to avoid a many to many relation an
 ## Reason for the project
 * I wanted to do this project since I find algorithms fun and fascinating to implement.
 * Visualizations of algorithms are mesmerizing.
-* I wanted to learn how to do object oriented programming in Python and how to make a GUI.
+* I wanted to learn how to do object oriented programming in Python and how to make a Python GUI.
 
