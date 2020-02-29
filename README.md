@@ -14,7 +14,7 @@ I also reduced the amount of code pr. file by splitting the classes up into sepe
 This could however be improved a bit further to avoid a many to many relation and make it look just a tad bit cleaner.
 
 ## Reason for the project
-..* I wanted to do this project since I find algorithms fun and fascinating to implement.
-..* Visualizations of algorithms are mesmerizing.
-..* I wanted to learn how to do object oriented programming in Python and how to make a GUI.
+* I wanted to do this project since I find algorithms fun and fascinating to implement.
+* Visualizations of algorithms are mesmerizing.
+* I wanted to learn how to do object oriented programming in Python and how to make a GUI.
 
